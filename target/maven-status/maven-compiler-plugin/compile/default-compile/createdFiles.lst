@@ -1,1 +1,4 @@
+com/whileapp/springmvcrestangular/Application.class
+com/whileapp/springmvcrestangular/controllers/rest/AppRestController.class
 com/whileapp/springmvcrestangular/controllers/AppController.class
+com/whileapp/springmvcrestangular/domain/Person.class
